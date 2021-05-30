@@ -36,6 +36,16 @@
     }
 
 }
+@media (max-width:860px) {
+    .wine-list {
+        font-size: 14px;
+    }
+}
+@media (max-width:500px) {
+    .wine-list {
+        font-size: 10px;
+    }
+}
 /* section4 */
 @media (max-width:770px){
     .container-4 {
